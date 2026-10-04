@@ -17,6 +17,7 @@ jobs:
         with:
           python-version: '3.11'
           cache: pip
+          cache-dependency-path: requirements-dev.txt
       - run: python -m pip install -r requirements-dev.txt
       - run: python tools/validate_materials.py --distribution --history
       - run: python -m pytest balicek-technicke/projekt/znamkovy-kalkulator/tests/ -v -p no:cacheprovider
