@@ -5,8 +5,8 @@
 Máte-li právo zapisovat do tohoto repozitáře, naklonujte jej a vytvořte vlastní větev. Ostatní účastníci si nejprve vytvoří fork tohoto účastnického repozitáře a klonují jej, nebo použijí ZIP a vlastní lokální Git. Forkujte tento podklad, ne jiný projekt s hotovými odpověďmi.
 
 ```bash
-git clone https://github.com/michaelprinc/Workshop-Agent-LLM-Task-Assignement.git
-cd Workshop-Agent-LLM-Task-Assignement
+git clone https://github.com/michaelprinc/Workshop-Agent-LLM-Task-Assignment.git
+cd Workshop-Agent-LLM-Task-Assignment
 git switch -c ucastnik/moje-prezdivka
 ```
 
