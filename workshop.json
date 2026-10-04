@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "tasks": [
+    {
+      "package": "balicek-1-zaklad",
+      "task": "01-rozhovor",
+      "path": "balicek-1-zaklad/cviceni/01-rozhovor/uloha.md"
+    },
+    {
+      "package": "balicek-1-zaklad",
+      "task": "02-dokument",
+      "path": "balicek-1-zaklad/cviceni/02-dokument/uloha.md"
+    },
+    {
+      "package": "balicek-1-zaklad",
+      "task": "03-upravy",
+      "path": "balicek-1-zaklad/cviceni/03-upravy/uloha.md"
+    },
+    {
+      "package": "balicek-1-zaklad",
+      "task": "04-vlastni-projekt",
+      "path": "balicek-1-zaklad/cviceni/04-vlastni-projekt/uloha.md"
+    },
+    {
+      "package": "balicek-2-stredni",
+      "task": "01-pokyny",
+      "path": "balicek-2-stredni/cviceni/01-pokyny/uloha.md"
+    },
+    {
+      "package": "balicek-2-stredni",
+      "task": "02-vlastni-agent",
+      "path": "balicek-2-stredni/cviceni/02-vlastni-agent/uloha.md"
+    },
+    {
+      "package": "balicek-2-stredni",
+      "task": "03-predani",
+      "path": "balicek-2-stredni/cviceni/03-predani/uloha.md"
+    },
+    {
+      "package": "balicek-2-stredni",
+      "task": "04-porovnani-modelu",
+      "path": "balicek-2-stredni/cviceni/04-porovnani-modelu/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "01-vlastni-skill",
+      "path": "balicek-3-pokrocily/cviceni/01-vlastni-skill/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "02-dodane-skills",
+      "path": "balicek-3-pokrocily/cviceni/02-dodane-skills/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "03-delegace",
+      "path": "balicek-3-pokrocily/cviceni/03-delegace/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "04-dilci-analyza",
+      "path": "balicek-3-pokrocily/cviceni/04-dilci-analyza/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "05-koordinace",
+      "path": "balicek-3-pokrocily/cviceni/05-koordinace/uloha.md"
+    },
+    {
+      "package": "balicek-3-pokrocily",
+      "task": "06-bezpecnost",
+      "path": "balicek-3-pokrocily/cviceni/06-bezpecnost/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "01-prvni-shrnuti",
+      "path": "balicek-humanitni/cviceni/01-prvni-shrnuti/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "02-dodany-skill",
+      "path": "balicek-humanitni/cviceni/02-dodany-skill/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "03-preklad",
+      "path": "balicek-humanitni/cviceni/03-preklad/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "04-vlastni-postup",
+      "path": "balicek-humanitni/cviceni/04-vlastni-postup/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "05-finalni-report",
+      "path": "balicek-humanitni/cviceni/05-finalni-report/uloha.md"
+    },
+    {
+      "package": "balicek-humanitni",
+      "task": "06-audit",
+      "path": "balicek-humanitni/cviceni/06-audit/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "01-pozorovani",
+      "path": "balicek-technicke/cviceni/01-pozorovani/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "02-revize",
+      "path": "balicek-technicke/cviceni/02-revize/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "03-jedna-oprava",
+      "path": "balicek-technicke/cviceni/03-jedna-oprava/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "04-testy-specifikace",
+      "path": "balicek-technicke/cviceni/04-testy-specifikace/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "05-celkove-overeni",
+      "path": "balicek-technicke/cviceni/05-celkove-overeni/uloha.md"
+    },
+    {
+      "package": "balicek-technicke",
+      "task": "06-bezpecnost",
+      "path": "balicek-technicke/cviceni/06-bezpecnost/uloha.md"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+POZNAMKY K ANALIZE (vlastnice e-shopu, kveten 2026)
+
+- Pruzkum se tyka pouze dubna 2026; predtim se dotaznik neposiloval.
+- Zajima nas hlavne: ktera kategorie produktu je nejlepe hodnocena a
+  co zpusobuje nejhure hodnoceni (přeprava? zbozi?).
+- Odvetni konkurence ma prumerne 4,1/5 — je to dobra srovnaci uroven.
+- Pozor: jeden dotaznik byl vyplneny jen castecne (chybi hodnoceni) —
+  mam to nechat v datech, nebo to vyhodit? (nereseno)

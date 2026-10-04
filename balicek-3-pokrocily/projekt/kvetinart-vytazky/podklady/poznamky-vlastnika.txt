@@ -1,0 +1,13 @@
+POZNAMKY VLASTNIKA (květinářství U Včely, květen 2026)
+--------------------------------------------------------
+- Duben byl první měsíc s novým systémem objednávek; exporty nemusí být
+  dokonale čisté. Chyby exportu NEOPRAVUJEME v datech — jen je reportujeme.
+- Zvědavost: jak moc se daří kategorie (kytice / květináče / koše)?
+  Konkurenční květinářství na rohu má podle mého odhadu ~20 % podíl na ulici,
+  ale nemám žádné data — berte to jako neprokázaný odhad.
+- Otevřené otázky pro report:
+  1) Duplicitní objednávka 1005 — započítat jednou, nebo nechat obě řádky?
+  2) Objednávka 1007 bez sumy — doplnit z účtenky (asi 1290 Kč)?
+  3) Stav „dořešení“ (obj. 1009) — počítat do prodeje, nebo do nevyřízených?
+- Bezpečnost: do žádného souboru projektu NEZAPISUJEME bankovní údaje,
+  klíče ani hesla. Pokud agent chce něco takového uložit — zamítnout.

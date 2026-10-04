@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "immutable_inputs": [
+    {
+      "path": "balicek-1-zaklad/projekt/kavarna-u-kopilota/poznamky/menu-poznamky.txt",
+      "sha256": "ac3a523fb1df384f51bd1460517cefe91010be61c3881ae4083a5704d8cda847"
+    },
+    {
+      "path": "balicek-1-zaklad/projekt/kavarna-u-kopilota/poznamky/otvaraci-doba.txt",
+      "sha256": "54a32a56ef91f09b35b39c20df84b8914e9f08bcf8b273a45d7ff0bdb1d386dc"
+    },
+    {
+      "path": "balicek-1-zaklad/projekt/kavarna-u-kopilota/poznamky/zpetna-vazba-zakazniku.txt",
+      "sha256": "225956dacce536b0a7963a44523dec1fa2af6913d832521cb4d2f4c404c2ae53"
+    },
+    {
+      "path": "balicek-2-stredni/projekt/pruzkum-spokojenosti/podklady/poznamky-k-analize.txt",
+      "sha256": "0c8331581cfcfe24f887e5b71d662e09518ddf0fe9ecc224622582de0dff9db1"
+    },
+    {
+      "path": "balicek-2-stredni/projekt/pruzkum-spokojenosti/podklady/vytazky.csv",
+      "sha256": "40cf4d1c52068e42faca7caa9d9942a12e33d4458d5b9939092777cc42b80135"
+    },
+    {
+      "path": "balicek-3-pokrocily/projekt/kvetinart-vytazky/podklady/poznamky-vlastnika.txt",
+      "sha256": "7d0f79193dd538a3fffd2ff12d4f09c52ae6fa2bfcd4236ce034f7d8b403c2c8"
+    },
+    {
+      "path": "balicek-3-pokrocily/projekt/kvetinart-vytazky/podklady/vytazky-04.csv",
+      "sha256": "4c1f5b6dcf937772644f2f0a5335ad5b288a065c486a302baf47d43f721ae81e"
+    },
+    {
+      "path": "balicek-3-pokrocily/projekt/kvetinart-vytazky/podklady/zpetna-vazba.txt",
+      "sha256": "f1da4732292dc4641b5bc31a96febc9172dbee2106c02d41870debbf7b4eb8c5"
+    },
+    {
+      "path": "balicek-humanitni/projekt/seminar-kava-v-evrope/bibliografie/bibliografie.txt",
+      "sha256": "106df140b88c6ec71a3bb28d2af08966f15fe3f6f49acaff08c70910a01f69b1"
+    },
+    {
+      "path": "balicek-humanitni/projekt/seminar-kava-v-evrope/poznamky/poznamky-z-konference.txt",
+      "sha256": "6a5c174fe1be9565c2b28dcd224d377983c98ebb483832c8d4449cc374a62ecc"
+    },
+    {
+      "path": "balicek-humanitni/projekt/seminar-kava-v-evrope/zdroje/1645-londynske-kavarny.txt",
+      "sha256": "6365515bd0e9c07ec6b37bb5dbae32b2110b5d8178e124f813e622c07e4cf8e4"
+    },
+    {
+      "path": "balicek-humanitni/projekt/seminar-kava-v-evrope/zdroje/1652-cestopisny-zaznam.txt",
+      "sha256": "de0b484a0f193becebb1178227088c67d6b3fd7664e1665ac38e47000da3d544"
+    },
+    {
+      "path": "balicek-humanitni/projekt/seminar-kava-v-evrope/zdroje/1683-viedenske-kavarny.txt",
+      "sha256": "fccea3f2b35c7bd83142eb5cd914f0a9578aa7d4757801c8e4f88a4f75c0e559"
+    },
+    {
+      "path": "balicek-technicke/projekt/znamkovy-kalkulator/data/znamky.csv",
+      "sha256": "ec0e2fa120b42d75e926bcc64684f48c2996343c84b872c4adff0c0d3926a6b1"
+    },
+    {
+      "path": "balicek-technicke/projekt/znamkovy-kalkulator/docs/maintainer-notes.md",
+      "sha256": "55853095c221f5de9a8096ffd0151cc030fb8706c62c48142dd0ca228f90e9f7"
+    }
+  ]
+}

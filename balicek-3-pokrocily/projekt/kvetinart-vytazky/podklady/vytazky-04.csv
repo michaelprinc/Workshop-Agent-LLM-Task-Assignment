@@ -1,0 +1,17 @@
+objednavka;datum;kategorie;sum_kc;stav;poznamka
+1001;2026-04-01;kytice;890;vydáno;svateční kytice, doručeno
+1002;2026-04-03;květináč;590;vydáno;monstera do kanceláře
+1003;2026-04-05;koš;1290;vydáno;dárkový koš, vyzvednutí
+1004;2026-04-07;kytice;890;zrušeno;zákaznice zrušila den předem
+1005;2026-04-08;květináč;590;vydáno;
+1005;2026-04-08;květináč;590;vydáno;duplicitní řádek (chyba exportu)
+1006;2026-04-10;kytice;-290;vráceno;vrácení poškozené kytice
+1007;2026-04-11;koš;;vydáno;chybí suma
+1008;2026-04-13;květináč;790;vydáno;orchideje do bytu
+1009;2026-04-15;kytice;890;dořešení;nedoručeno, čeká na doplnění adresy
+1010;2026-04-17;koš;1290;vydáno;dárkový koš
+1011;2026-04-19;květináč;590;zrušeno;zákazník změnil adresu
+1012;2026-04-21;kytice;890;vydáno;narozeninová kytice
+1013;2026-04-23;květináč;590;vydáno;
+1014;2026-04-25;koš;1490;vydáno;velikonoční koš
+1015;2026-04-28;kytice;890;vydáno;doručeno
